@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout << "Enter A and B: ";
-    int a, b, m;
+    double a, b, m;
     cin >> a >> b;
     if (a > b){
         m = a;
